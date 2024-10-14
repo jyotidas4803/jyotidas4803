@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @jyotidas4803
 - 🌱 I’m currently learning ...
+- 💻 Interested in web design 
+- 🚀 Exploring new technologies  
 
 
 <!---
