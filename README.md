@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I am a passionate and driven individual with a focus on web development and programming. Here's a little bit about me:
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🔭 I’m currently working on various web development projects.
 - 🌱 I’m currently learning JavaScript, React, and Next.js.
